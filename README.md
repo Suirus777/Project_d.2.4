@@ -13,10 +13,10 @@ d. Запускаем кластер Minikube <br> <br>
 2. В кластере должно быть всего пять нод, одна из них должна быть Сontrol Plane-нода. <br>
 Ответ: Для добавления нод в кластер Minikube используем команду:<br><br>
 <code># minikube node add --worker "Name_Worker_node" </code> <br><br>
-3. После того как ноды поднимутся, получите список всех нод в вашем локальном кластере. <br> <br>
+3. После того как ноды поднимутся, получите список всех нод в вашем локальном кластере. <br> 
 Ответ: Список NODE<br>
-<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_nodes.JPG><br><br>
-Список pod <br><br>
+<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_nodes.JPG><br>
+Список pod <br>
 <img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_podes.JPG> <br><br>
 4. Все команды и вывод результатов выполнения этих команд отправьте ментору на проверку.
 
