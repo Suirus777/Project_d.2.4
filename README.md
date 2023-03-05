@@ -2,12 +2,10 @@
 1. Поднимите у себя локальный K8S-кластер с помощью Minikube. <br>
 Ответ: Инструкция по установке Minikube Debian/Ubuntu в моем случаи Debian 10:<br>
 a. Установка Docker <br> 
-<code>
-#apt install -y docker docker.io <br> </code>
+<code>#apt install -y docker docker.io <br> </code>
 
 b. Установка Docker-compose <br>
-<code>
-#curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose </code> <br>
+<code>#curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose </code> <br>
 
 Установка Minikube
 
