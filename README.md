@@ -17,6 +17,6 @@ d. Запускаем кластер Minikube <br> <br>
 Ответ: Список NODE<br>
 <img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_nodes.JPG><br>
 Список pod <br>
-<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_podes.JPG> <br><br>
-4. Все команды и вывод результатов выполнения этих команд отправьте ментору на проверку.
-
+<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_podes.JPG> <br>
+4. Все команды и вывод результатов выполнения этих команд отправьте ментору на проверку. <br>
+https://github.com/Suirus777/Project_d.2.4/edit/main/README.md <br>
