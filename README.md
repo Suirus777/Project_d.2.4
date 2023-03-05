@@ -14,38 +14,7 @@ d. Запускаем кластер Minikube <br> <br>
 Ответ: Для добавления нод в кластер Minikube используем команду:<br><br>
 <code># minikube node add --worker "Name_Worker_node" </code> <br><br>
 3. После того как ноды поднимутся, получите список всех нод в вашем локальном кластере. <br> <br>
-<code> root@node:/home/odmin# minikube status
-minikube
-type: Control Plane
-host: Running
-kubelet: Running
-apiserver: Running
-kubeconfig: Configured
 
-minikube-m02
-type: Worker
-host: Running
-kubelet: Running
-
-minikube-m03
-type: Worker
-host: Running
-kubelet: Running
-
-minikube-m04
-type: Worker
-host: Running
-kubelet: Running
-
-minikube-m05
-type: Worker
-host: Running
-kubelet: Running
-
-minikube-m06
-type: Worker
-host: Running
-kubelet: Running </code> <br> <br>
 
 5. Все команды и вывод результатов выполнения этих команд отправьте ментору на проверку.
 
