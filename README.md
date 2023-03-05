@@ -16,10 +16,10 @@ d. Запускаем кластер Minikube <br> <br>
 3. После того как ноды поднимутся, получите список всех нод в вашем локальном кластере. <br> 
 Ответ: Список NODE<br>
 <code><b> # minikube status </b> </code><br>
-<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_nodes.JPG><br>
+<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_nodes.JPG>
 Список pod <br>
 <code><b># minikube kubectl -- get po -A </b> </code><br>
-<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_podes.JPG> <br>
+<img src=https://github.com/Suirus777/Project_d.2.4/blob/main/Minikube_podes.JPG> 
 4. Все команды и вывод результатов выполнения этих команд отправьте ментору на проверку. <br>
 https://github.com/Suirus777/Project_d.2.4/edit/main/README.md <br>
 
